@@ -34,7 +34,6 @@ export const Li = styled.ul`
 	font-weight: bold;
 	background: #3B3B3B;
 	color: white;
-
 	height: 45px;
 	padding: 10px;
 
